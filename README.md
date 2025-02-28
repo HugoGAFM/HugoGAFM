@@ -1,4 +1,6 @@
-## Olá! meu Nome é hugo. Sou um estudante de programação! 
+## Olá! meu Nome é Hugo. Sou um Estudante de Programação! 
+
+## Hello, my name is Hugo. I'm a Developer Student.
 
 <!--
 **HugoGAFM/HugoGAFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
